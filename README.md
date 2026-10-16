@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&width=800&lines=Software+Solutions+Developer+%7C+Automation+Engineer;Building+scalable+AI+%26+automation+pipelines+%F0%9F%9A%80;Python+%7C+Flutter+%7C+FastAPI+%7C+Next.js+%7C+n8n+%E2%9A%99%EF%B8%8F;3%2B+years+building+digital+products+%26+systems;Software+Engineering+%40+Shamsipour+College+%F0%9F%8E%93" alt="Typing SVG" />
 
 ![intro-Gif](https://raw.githubusercontent.com/Rmaawn/Rmaawn/main/Readme.gif)
 
@@ -16,8 +17,9 @@ Map<String, dynamic> arman = {
 
 
 ## 👾 Platforms
+[![Website](https://img.shields.io/badge/Portfolio-armanmohebali.ir-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://armanmohebali.ir)
 [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-mohebali/)
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/R_maawn)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arman_mohebali)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/TZX6CD2QA5WEF1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanbayati52@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24749252/rmaawn)
